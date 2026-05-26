@@ -1,0 +1,11 @@
+{
+  "plant": "Plant-A",
+  "machine_id": "MACHINE-101",
+  "temperature": 82.5,
+  "pressure": 30.4,
+  "vibration": 1.2,
+  "rpm": 2450,
+  "power_consumption": 355.8,
+  "status": "RUNNING",
+  "timestamp": "2026-05-24T18:20:15"
+}
